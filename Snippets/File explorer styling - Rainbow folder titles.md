@@ -15,7 +15,6 @@ cover:: ![](https://i.imgur.com/vjXhJdp.png)
 /*
 author: sailKite
 source: https://discord.com/channels/686053708261228577/702656734631821413/1163095446919585843
-(version < 1.6.2 )
 */
 
 /* updated snippet for v1.6.3  */
