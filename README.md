@@ -4,14 +4,14 @@ ObsidianMD CSS Snippets Collection: Enhance Your Note-Taking Experience
 
 <img src="https://i.imgur.com/cPa054W.png" alt="snippets collection">
 
-Table of Contents:
+**Table of Contents:**
 
-1. [◩ Introduction](#-Introduction)
-2. [◩ Compatibility](#-Compatibility)
-3. [◩ How to Use](#-How-to-Use)
-4. [◩ Included Snippets](#-Included-Snippets)
-5. [◩ Credits](#-Credits)
-6. [◩ License](#-License)
+1. [Introduction](#-Introduction)
+2. [Compatibility](#-Compatibility)
+3. [How to Use](#-How-to-Use)
+4. [Included Snippets](#-Included-Snippets)
+5. [Credits](#-Credits)
+6. [License](#-License)
 
 ## ◩ Introduction 
 
@@ -112,6 +112,7 @@ Alternatively, for a more granular approach, open the links below to view and co
  - [Image tweak](Snippets/Image%20tweak.md)
  - [Kanban styling - background based on tag](Snippets/Kanban%20styling%20-%20background%20based%20on%20tag.md)
  - [Kanban styling - Notion like Kanban board](Snippets/Kanban%20styling%20-%20Notion%20like%20Kanban%20board.md)
+ - [Kanban styling - background customized](Snippets/Kanban%20styling%20-%20background%20customized.md)
  - [Left aligned note header](Snippets/Left%20aligned%20note%20header.md)
  - [Link styling 01](Snippets/Link%20styling%2001.md)
  - [Loading screen tweak](Snippets/Loading%20screen%20tweak.md)
