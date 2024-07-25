@@ -21,6 +21,7 @@ cover:: ![](https://i.imgur.com/zjZHS82.png)
   --nav-item-color: black;
   --nav-item-color-hover: black;
   --nav-collapse-icon-color: black;
+  --nav-item-color-active: black;
   border-radius: 10px;
 }
 .nav-folder-children > .nav-folder,
