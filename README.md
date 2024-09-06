@@ -101,6 +101,7 @@ Alternatively, for a more granular approach, open the links below to view and co
  - [Heading indicators 01](Snippets/Heading%20indicators%2001.md)
  - [Heading indicators 02](Snippets/Heading%20indicators%2002.md)
  - [Hide ribbon on collapse](Snippets/Hide%20ribbon%20on%20collapse.md)
+ - [Hide titlebar buttons and freeze the right-expand button](Snippets/Hide%20titlebar%20buttons%20and%20freeze%20the%20right-sidedock%20toggle%20button%20position.md)
  - [Hide window button panel](Snippets/Hide%20window%20button%20panel.md)
  - [Icon before headings](Snippets/Icon%20before%20headings.md)
  - [Image as a background 01](Snippets/Image%20as%20a%20background%2001.md)
