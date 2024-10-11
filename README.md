@@ -10,8 +10,9 @@ ObsidianMD CSS Snippets Collection: Enhance Your Note-Taking Experience
 2. [Compatibility](#-Compatibility)
 3. [How to Use](#-How-to-Use)
 4. [Included Snippets](#-Included-Snippets)
-5. [Credits](#-Credits)
-6. [License](#-License)
+5. [Additional Resources & Links](#-Additional-Resources-&-Links)
+6. [Credits](#-Credits)
+7. [License](#-License)
 
 ## ◩ Introduction 
 
@@ -148,6 +149,29 @@ Alternatively, for a more granular approach, open the links below to view and co
 </details>
 
 **NOTE**: _Please note that some code snippets might not be displayed here due to permission concerns. You can find the complete code in the provided source URLs._
+
+## ◩ Additional Resources & Links
+
+<details>
+  <summary>Click to expand/collapse</summary>
+
+- ⁠[#appearance](https://discord.com/channels/686053708261228577/702656734631821413) - Obsidian discord
+- [Obsidian CSS Quick Guide](https://forum.obsidian.md/t/obsidian-css-quick-guide/58178) (forum) (mostly about using the inspector) -
+- [CSS Variables at Obsidian Dev Docs](https://docs.obsidian.md/Reference/CSS+variables/CSS+variables)
+- replete / [obsidian-minimal-theme-css-snippets](https://github.com/replete/obsidian-minimal-theme-css-snippets)
+- efemkay / [obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout#wide-views)
+- SlRvb's [snippets collection](https://github.com/SlRvb/Obsidian--ITS-Theme/tree/main/Snippets) | [Guide](https://publish.obsidian.md/slrvb-docs/ITS+Theme/ITS+Theme)
+- zamsyt / [obsidian-snippets](https://github.com/zamsyt/obsidian-snippets)
+- ElsaTam /  [Obsidian-Stuff](https://github.com/ElsaTam/Obsidian-Stuff)
+- KuiyueRO / [Obsidian-Miner](https://github.com/KuiyueRO/Obsidian-Miner)
+- HandaArchitect / [obsidian-banner-snippet](https://github.com/HandaArchitect/obsidian-banner-snippet)
+- sailKiteV / [Obsidian-Snippets-and-Demos](https://github.com/sailKiteV/Obsidian-Snippets-and-Demos?tab=readme-ov-file)
+- TfTHacker / [DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus)
+- eb2ai / [My-Checklists-and-Icons](https://github.com/eb2ai/My-Checklists-and-Icons?tab=readme-ov-file)
+- felixqueisler / [Obsidian-FileLink-Styling](https://github.com/felixqueisler/Obsidian-FileLink-Styling)
+- xhuajin / [obsidian-sidenote-callout](https://github.com/xhuajin/obsidian-sidenote-callout/tree/main)
+
+</details>
 
 ## ◩ Credits
 
