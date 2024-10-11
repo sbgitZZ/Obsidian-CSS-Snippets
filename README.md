@@ -10,7 +10,7 @@ ObsidianMD CSS Snippets Collection: Enhance Your Note-Taking Experience
 2. [Compatibility](#-Compatibility)
 3. [How to Use](#-How-to-Use)
 4. [Included Snippets](#-Included-Snippets)
-5. [Additional Resources & Links](#-Additional-Resources-&-Links)
+5. [Additional Resources and Links](#-additional-resources-and-links)
 6. [Credits](#-Credits)
 7. [License](#-License)
 
@@ -150,7 +150,7 @@ Alternatively, for a more granular approach, open the links below to view and co
 
 **NOTE**: _Please note that some code snippets might not be displayed here due to permission concerns. You can find the complete code in the provided source URLs._
 
-## ◩ Additional Resources & Links
+## ◩ Additional Resources and Links
 
 <details>
   <summary>Click to expand/collapse</summary>
