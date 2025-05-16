@@ -21,7 +21,7 @@ source: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474/244?u
 
 /* for preview */
 .markdown-preview-view blockquote {
-  border-color: #1abf7f !important;
+  border-color: [[1abf7f]] !important;
   border-left-width: 2px !important;
   background-image: linear-gradient(
     to right,
@@ -48,11 +48,11 @@ source: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474/244?u
   top: 0.4em;
   left: -1em;
   font-size: 2.5em;
-  color: #1abf7f;
+  color: [[1abf7f]];
 }
 
 cite {
-  color: #1abf7f;
+  color: [[1abf7f]];
   text-align: end;
   display: block;
 }

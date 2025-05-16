@@ -15,10 +15,10 @@ cover:: ![](https://i.imgur.com/zDjkb9m.png)
 
 ```css
 :is(.cm-line, p, h1, h2, h3, h4, h5, h6)::first-letter {
-  margin: 0.36rem;
-  color: var(--text-normal);
-  font-size: 2em;
-  font-weight: bold;
-  color: var(--text-accent);
+    margin: 0.36rem;
+    color: var(--text-normal);
+    font-size: 2em;
+    font-weight: bold;
+    color: var(--text-accent);
 }
 ```

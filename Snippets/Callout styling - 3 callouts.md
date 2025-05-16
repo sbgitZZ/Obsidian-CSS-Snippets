@@ -119,7 +119,7 @@ settings:
   min-width: 100%;
 }
 .callout-floating .callout-content,
-.callout-floating .markdown-source-view.mod-cm6 .callout-content {
+.callout-floating .[[SBGiT/Quicknote/Markdown|[[SBGiT/Quicknote/Markdown|markdown]]]]-source-view.mod-cm6 .callout-content {
   padding: 0px 10px;
 }
 ```

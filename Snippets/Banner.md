@@ -77,12 +77,12 @@ body {
   --bannericon-border-width: 0.175em;
 }
 
-.markdown-reading-view .bannerimg {
+.[[SBGiT/Quicknote/Markdown|markdown]]-reading-view .bannerimg {
   padding-bottom: 2em !important;
   padding-top: var(--bannerimg-height) !important;
 }
 
-.canvas-node-content.markdown-embed .bannerimg {
+.canvas-node-content.[[SBGiT/Quicknote/Markdown|[[SBGiT/Quicknote/Markdown|markdown]]]]-embed .bannerimg {
   padding-top: 11em !important;
 }
 
@@ -169,13 +169,13 @@ span[src$="bannericoncc"] img {
 
 /*Description left and Description center*/
 .description
-  .markdown-preview-sizer.markdown-preview-section
+  .[[SBGiT/Quicknote/[[SBGiT/Quicknote/Markdown|Markdown]]|markdown]]-preview-sizer.markdown-preview-section
   > .mod-header
   > .inline-title {
   margin-bottom: calc(5 * var(--inline-title-margin-bottom));
 }
 
-.markdown-reading-view
+.[[SBGiT/Quicknote/Markdown|markdown]]-reading-view
   .callout[data-callout="bannerdescription"]
   .callout-content {
   top: 13.55em;

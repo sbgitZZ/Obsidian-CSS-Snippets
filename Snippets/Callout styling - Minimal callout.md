@@ -12,25 +12,25 @@
 cover:: ![](https://i.imgur.com/nmyuR4y.png)
 
 ```css
-.callout[data-callout="m-callout"] {
-  --callout-color: transparent;
-  border: none;
-  padding: 0;
+.callout[data-callout='m-callout'] {
+    --callout-color: transparent;
+    border: none;
+    padding: 0;
 }
 
-.callout[data-callout="m-callout"] .callout-title {
-  display: none;
-  padding: 0;
+.callout[data-callout='m-callout'] .callout-title {
+    display: none;
+    padding: 0;
 }
 
-.callout[data-callout="m-callout"] .callout-content {
-  font-size: 85%;
-  text-align: center;
+.callout[data-callout='m-callout'] .callout-content {
+    font-size: 85%;
+    text-align: center;
 }
 
-.callout[data-callout="m-callout"] .callout-content::after {
-  content: "--- ♪ ♪ ♪ ---";
-  color: var(--text-accent);
+.callout[data-callout='m-callout'] .callout-content::after {
+    content: '--- ♪ ♪ ♪ ---';
+    color: var(--text-accent);
 }
 ```
 

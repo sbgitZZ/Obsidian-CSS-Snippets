@@ -38,20 +38,20 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-body.markdown-preview-view .callout-icon > svg {
-  width: 48px;
-  height: 48px;
+body.[[SBGiT/Quicknote/Markdown|markdown]]-preview-view .callout-icon > svg {
+    width: 48px;
+    height: 48px;
 }
 
 .callout > .callout-title > .callout-icon {
-  --icon-size: 48px;
-  opacity: 0.3;
-  position: absolute;
-  top: -10px;
-  right: -8px;
+    --icon-size: 48px;
+    opacity: 0.3;
+    position: absolute;
+    top: -10px;
+    right: -8px;
 }
 
 .callout {
-  position: relative;
+    position: relative;
 }
 ```

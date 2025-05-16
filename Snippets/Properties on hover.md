@@ -9,7 +9,7 @@
 
 ---
 
-cover:: ![](https://i.imgur.com/JS0E9Sz.gif)
+cover:: ![|351x145](https://i.imgur.com/JS0E9Sz.gif)
 
 ```css
 /*
@@ -18,27 +18,27 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11442
 */
 
 .metadata-properties-title {
-  transition: 500ms;
-  opacity: 0.2;
-  pointer-events: none;
+    transition: 500ms;
+    opacity: 0.2;
+    pointer-events: none;
 }
 .metadata-container:hover .metadata-properties-title {
-  opacity: 1;
-  color: var(--text-accent);
-  pointer-events: auto;
+    opacity: 1;
+    color: var(--text-accent);
+    pointer-events: auto;
 }
 
 .metadata-content {
-  transition: 200ms cubic-bezier(0.25, 1, 0.5, 1);
-  opacity: 0;
-  height: 0;
-  margin-bottom: -1.8em;
-  pointer-events: none;
+    transition: 200ms cubic-bezier(0.25, 1, 0.5, 1);
+    opacity: 0;
+    height: 0;
+    margin-bottom: -1.8em;
+    pointer-events: none;
 }
 .metadata-container:hover .metadata-content {
-  opacity: 1;
-  height: auto;
-  margin-bottom: 0.5em;
-  pointer-events: auto;
+    opacity: 1;
+    height: auto;
+    margin-bottom: 0.5em;
+    pointer-events: auto;
 }
 ```

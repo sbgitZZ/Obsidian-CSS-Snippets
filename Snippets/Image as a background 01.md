@@ -21,7 +21,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/89390
   background-image: url("https://images.wallpapersden.com/image/download/macos-12-monterey-stock-dark_bGxsaGiUmZqaraWkpJRmbmdlrWZlbWU.jpg");
   background-size: cover;
   --background-primary: #20202040;
-  --background-primary-alt: #1a1a1a40;
+  --background-primary-alt: [[1a1a1a40]];
   --background-secondary: #16161640;
   --background-secondary-alt: #00000040;
   --background-modifier-border: #00000040;

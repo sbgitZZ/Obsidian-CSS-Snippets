@@ -52,28 +52,28 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 .callouts-outlined .callout .callout-title {
-  background-color: var(--background-primary);
-  margin-top: -24px;
-  z-index: 200;
-  width: fit-content;
-  padding: 0 0.5em;
-  margin-left: -0.75em;
-  letter-spacing: 0.05em;
-  font-variant-caps: all-small-caps;
+    background-color: var(--background-primary);
+    margin-top: -24px;
+    z-index: 200;
+    width: fit-content;
+    padding: 0 0.5em;
+    margin-left: -0.75em;
+    letter-spacing: 0.05em;
+    font-variant-caps: all-small-caps;
 }
 .callouts-outlined .callout {
-  overflow: visible;
-  --callout-border-width: 1px;
-  --callout-border-opacity: 0.5;
-  --callout-title-size: 0.8em;
-  --callout-blend-mode: normal;
-  background-color: transparent;
+    overflow: visible;
+    --callout-border-width: 1px;
+    --callout-border-opacity: 0.5;
+    --callout-title-size: 0.8em;
+    --callout-blend-mode: normal;
+    background-color: transparent;
 }
 .callouts-outlined .cm-embed-block.cm-callout {
-  padding-top: 12px;
+    padding-top: 12px;
 }
 .callouts-outlined .callout-content .callout {
-  margin-top: 18px;
+    margin-top: 18px;
 }
 ```
 

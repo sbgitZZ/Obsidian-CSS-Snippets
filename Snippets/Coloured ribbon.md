@@ -18,12 +18,12 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11472
 */
 
 .workspace-ribbon.side-dock-ribbon.mod-left {
-  --titlebar-background-focused: red;
-  background-color: var(--titlebar-background-focused);
+    --titlebar-background-focused: red;
+    background-color: var(--titlebar-background-focused);
 }
 .workspace-ribbon.side-dock-ribbon.mod-left::before,
 .workspace-ribbon.side-dock-ribbon.mod-left > .sidebar-toggle-button {
-  --titlebar-background: var(--titlebar-background-focused);
+    --titlebar-background: var(--titlebar-background-focused);
 }
 ```
 
@@ -33,6 +33,6 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11472
 
 ```css
 .workspace-ribbon.side-dock-ribbon.mod-left .clickable-icon {
-  color: white;
+    color: white;
 }
 ```

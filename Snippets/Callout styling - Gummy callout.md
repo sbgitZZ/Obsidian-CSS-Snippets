@@ -36,16 +36,16 @@ source: https://discord.com/channels/686053708261228577/744933215063638183/11149
   --color-callout-red: #502626;
   --color-callout-blue: #263850;
   --color-callout-green: #265029;
-  --color-callout-yellow: #4c5026;
+  --color-callout-yellow: [[4c5026]];
   --color-callout-orange: #504126;
-  --color-callout-teal: #264e50;
-  --color-callout-grey: #3b3b3b;
+  --color-callout-teal: [[264e50]];
+  --color-callout-grey: [[3b3b3b]];
   --color-callout-purple: #392650;
 
   --color-callout-border-red: #715050;
   --color-callout-border-blue: #516073;
   --color-callout-border-green: #507153;
-  --color-callout-border-yellow: #6e7150;
+  --color-callout-border-yellow: [[6e7150]];
   --color-callout-border-orange: #716550;
   --color-callout-border-teal: #507171;
   --color-callout-border-grey: #616161;
@@ -54,23 +54,23 @@ source: https://discord.com/channels/686053708261228577/744933215063638183/11149
 }
 
 .theme-light {
-  --color-callout-red: #ffe0e0;
-  --color-callout-blue: #def1ff;
-  --color-callout-green: #e0ffe3;
-  --color-callout-yellow: #ffffe0;
-  --color-callout-orange: #fff2e0;
-  --color-callout-teal: #e0feff;
-  --color-callout-grey: #ededed;
-  --color-callout-purple: #ede0ff;
+  --color-callout-red: [[ffe0e0]];
+  --color-callout-blue: [[def1ff]];
+  --color-callout-green: [[e0ffe3]];
+  --color-callout-yellow: [[ffffe0]];
+  --color-callout-orange: [[fff2e0]];
+  --color-callout-teal: [[e0feff]];
+  --color-callout-grey: [[ededed]];
+  --color-callout-purple: [[ede0ff]];
 
-  --color-callout-border-red: #e5c7c7;
-  --color-callout-border-blue: #c7d8e5;
-  --color-callout-border-green: #cce5c7;
-  --color-callout-border-yellow: #e3e5c7;
-  --color-callout-border-orange: #e5dbc7;
-  --color-callout-border-teal: #c7e5e5;
-  --color-callout-border-grey: #dbdbdb;
-  --color-callout-border-purple: #d8c7e5;
+  --color-callout-border-red: [[e5c7c7]];
+  --color-callout-border-blue: [[c7d8e5]];
+  --color-callout-border-green: [[cce5c7]];
+  --color-callout-border-yellow: [[e3e5c7]];
+  --color-callout-border-orange: [[e5dbc7]];
+  --color-callout-border-teal: [[c7e5e5]];
+  --color-callout-border-grey: [[dbdbdb]];
+  --color-callout-border-purple: [[d8c7e5]];
   --color-callout-text: var(--text-normal);
 }
 
@@ -173,60 +173,60 @@ source: https://discord.com/channels/686053708261228577/744933215063638183/11149
 }
 
 .callout[data-callout="tldr"] {
-  border: 1px solid #07f49e;
-  background: linear-gradient(43deg, #42047e 0%, #07f49e 100%);
+  border: 1px solid [[07f49e]];
+  background: linear-gradient(43deg, [[42047e]] 0%, [[07f49e]] 100%);
 }
 
 .callout[data-callout="missing"] {
-  border: 1px solid #ef745c;
-  background: linear-gradient(43deg, #34073d 0%, #ef745c 100%);
+  border: 1px solid [[ef745c]];
+  background: linear-gradient(43deg, [[34073d]] 0%, [[ef745c]] 100%);
 }
 
 .callout[data-callout="summary"] {
-  border: 1px solid #ccb3d1;
-  background: linear-gradient(43deg, #22052d 0%, #ccb3d1 100%);
+  border: 1px solid [[ccb3d1]];
+  background: linear-gradient(43deg, [[22052d]] 0%, [[ccb3d1]] 100%);
 }
 
 .callout[data-callout="caution"] {
-  border: 1px solid #557c93;
-  background: linear-gradient(43deg, #08203e 0%, #557c93 100%);
+  border: 1px solid [[557c93]];
+  background: linear-gradient(43deg, [[08203e]] 0%, [[557c93]] 100%);
 }
 
 .callout[data-callout="hint"] {
-  border: 1px solid #a4c6b8;
-  background: linear-gradient(43deg, #5e435d 0%, #a4c6b8 100%);
+  border: 1px solid [[a4c6b8]];
+  background: linear-gradient(43deg, [[5e435d]] 0%, [[a4c6b8]] 100%);
 }
 
 .callout[data-callout="help"],
 .callout[data-callout="faq"] {
-  border: 1px solid #5d5d3c;
-  background: linear-gradient(43deg, #3f3f42 0%, #5d5d3c 100%);
+  border: 1px solid [[5d5d3c]];
+  background: linear-gradient(43deg, [[3f3f42]] 0%, [[5d5d3c]] 100%);
 }
 
 .callout[data-callout="error"] {
   border: 1px solid #751006;
-  background: linear-gradient(43deg, #1f0021 0%, #751006 100%);
+  background: linear-gradient(43deg, [[1f0021]] 0%, #751006 100%);
 }
 
 .callout[data-callout="fail"] {
-  border: 1px solid #f4985a;
-  background: linear-gradient(43deg, #12243f 0%, #f4985a 100%);
+  border: 1px solid [[f4985a]];
+  background: linear-gradient(43deg, [[12243f]] 0%, [[f4985a]] 100%);
 }
 
 .callout[data-callout="important"] {
-  border: 1px solid #f9bc2c;
-  background: linear-gradient(43deg, #f74c06 0%, #f9bc2c 100%);
+  border: 1px solid [[f9bc2c]];
+  background: linear-gradient(43deg, [[f74c06]] 0%, [[f9bc2c]] 100%);
 }
 
 .callout[data-callout="cite"] {
-  border: 1px solid #858e96;
-  background: linear-gradient(43deg, #60696b 0%, #858e96 100%);
+  border: 1px solid [[858e96]];
+  background: linear-gradient(43deg, [[60696b]] 0%, [[858e96]] 100%);
 }
 
 .callout[data-callout="check"],
 .callout[data-callout="done"] {
-  border: 1px solid #99f2d1;
-  background: linear-gradient(43deg, #1c3e35 0%, #99f2d1 100%);
+  border: 1px solid [[99f2d1]];
+  background: linear-gradient(43deg, [[1c3e35]] 0%, [[99f2d1]] 100%);
 }
 
 .callout[data-callout="tldr"]:hover {

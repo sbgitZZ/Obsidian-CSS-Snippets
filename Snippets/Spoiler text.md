@@ -26,7 +26,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/89381
 }
 
 .theme-dark {
-  --spoiler-bg: #eee;
+  --spoiler-bg: [[eee]];
 }
 
 div:not(.CodeMirror-activeline) > .CodeMirror-line .cm-em.cm-strikethrough,

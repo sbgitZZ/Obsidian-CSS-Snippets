@@ -43,8 +43,8 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/10929
   padding: 0.15rem 0.75ch;
   border-radius: 1rem;
 
-  color: #ccc;
-  background-color: #2e7d32;
+  color: [[ccc]];
+  background-color: [[2e7d32]];
 
   text-align: center;
   font-weight: bold;
@@ -53,7 +53,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/10929
 }
 [data-callout="tabbed"] > .callout-content label:has(input:checked) {
   color: white;
-  background-color: #8bc34a;
+  background-color: [[8bc34a]];
 }
 [data-callout="tabbed"]
   > .callout-content
@@ -94,5 +94,5 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/10929
 > >
 > > - bullet item
 > > - [ ] checkbox
-> > - [x] #tag
+> > - [x] [[tag]]
 ```

@@ -18,22 +18,22 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11341
 */
 
 /* image caption collapsible callout */
-.callout[data-callout="img-caption"] {
-  --callout-color: none;
-  --callout-icon: none;
-  padding: 12px 0px;
+.callout[data-callout='img-caption'] {
+    --callout-color: none;
+    --callout-icon: none;
+    padding: 12px 0px;
 }
-.callout[data-callout="img-caption"] > .callout-title {
-  font-size: 0px;
-  justify-content: center;
+.callout[data-callout='img-caption'] > .callout-title {
+    font-size: 0px;
+    justify-content: center;
 }
-.callout[data-callout="img-caption"]
-  > .callout-title
-  > :is(.callout-icon, .callout-fold) {
-  display: none;
+.callout[data-callout='img-caption']
+    > .callout-title
+    > :is(.callout-icon, .callout-fold) {
+    display: none;
 }
-.callout[data-callout*="img-caption"] > .callout-content {
-  text-align: center;
+.callout[data-callout*='img-caption'] > .callout-content {
+    text-align: center;
 }
 ```
 

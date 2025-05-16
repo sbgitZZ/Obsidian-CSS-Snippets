@@ -33,7 +33,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11203
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 :root {
-  --folder-comments-height: 30px;
+    --folder-comments-height: 30px;
 }
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
@@ -41,16 +41,16 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11203
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 .tree-item-inner::after {
-  position: absolute;
-  font-size: 10px;
-  bottom: 4px;
-  left: 25px;
-  opacity: 40%;
+    position: absolute;
+    font-size: 10px;
+    bottom: 4px;
+    left: 25px;
+    opacity: 40%;
 }
 
 .tree-item .nav-folder:not(.is-collapsed) .tree-item-inner::after {
-  color: var(--custom-color-primary);
-  opacity: 100;
+    color: var(--custom-color-primary);
+    opacity: 100;
 }
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
@@ -58,7 +58,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11203
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 .nav-folder-title[data-count]::after {
-  align-self: start;
+    align-self: start;
 }
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
@@ -66,74 +66,74 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11203
 /* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* Notes */
-[data-path="1 Notes"] .tree-item-inner {
-  height: var(--folder-comments-height);
+[data-path='1 Notes'] .tree-item-inner {
+    height: var(--folder-comments-height);
 }
 
-[data-path="1 Notes"] .tree-item-inner::after {
-  content: "My Personal notes";
+[data-path='1 Notes'] .tree-item-inner::after {
+    content: 'My Personal notes';
 }
 
 /* Tasks */
-[data-path="2 Tasks"] .tree-item-inner {
-  height: var(--folder-comments-height);
+[data-path='2 Tasks'] .tree-item-inner {
+    height: var(--folder-comments-height);
 }
 
-[data-path="2 Tasks"] .tree-item-inner::after {
-  content: "My To-Do's";
+[data-path='2 Tasks'] .tree-item-inner::after {
+    content: "My To-Do's";
 }
 
 /* Projects */
-[data-path="3 Projects"] .tree-item-inner {
-  height: var(--folder-comments-height);
+[data-path='3 Projects'] .tree-item-inner {
+    height: var(--folder-comments-height);
 }
 
-[data-path="3 Projects"] .tree-item-inner::after {
-  content: "Work in Progress";
+[data-path='3 Projects'] .tree-item-inner::after {
+    content: 'Work in Progress';
 }
 
 /* Bookmarks */
-[data-path="4 Bookmarks"] .tree-item-inner {
-  height: var(--folder-comments-height);
+[data-path='4 Bookmarks'] .tree-item-inner {
+    height: var(--folder-comments-height);
 }
 
-[data-path="4 Bookmarks"] .tree-item-inner::after {
-  content: "Saved web links";
+[data-path='4 Bookmarks'] .tree-item-inner::after {
+    content: 'Saved web links';
 }
 
 /* Documents */
-[data-path="5 Documents"] .tree-item-inner {
-  height: var(--folder-comments-height);
+[data-path='5 Documents'] .tree-item-inner {
+    height: var(--folder-comments-height);
 }
 
-[data-path="5 Documents"] .tree-item-inner::after {
-  content: "Important files";
+[data-path='5 Documents'] .tree-item-inner::after {
+    content: 'Important files';
 }
 
 /* Research */
-[data-path="6 Research"] .tree-item-inner {
-  height: var(--folder-comments-height);
+[data-path='6 Research'] .tree-item-inner {
+    height: var(--folder-comments-height);
 }
 
-[data-path="6 Research"] .tree-item-inner::after {
-  content: "Knowledge Hub";
+[data-path='6 Research'] .tree-item-inner::after {
+    content: 'Knowledge Hub';
 }
 
 /* Resources */
-[data-path="8 Resources"] .tree-item-inner {
-  height: var(--folder-comments-height);
+[data-path='8 Resources'] .tree-item-inner {
+    height: var(--folder-comments-height);
 }
 
-[data-path="8 Resources"] .tree-item-inner::after {
-  content: "Files & Resources";
+[data-path='8 Resources'] .tree-item-inner::after {
+    content: 'Files & Resources';
 }
 
 /* Templates */
-[data-path="9 Templates"] .tree-item-inner {
-  height: var(--folder-comments-height);
+[data-path='9 Templates'] .tree-item-inner {
+    height: var(--folder-comments-height);
 }
 
-[data-path="9 Templates"] .tree-item-inner::after {
-  content: "My Custom Tempaltes";
+[data-path='9 Templates'] .tree-item-inner::after {
+    content: 'My Custom Tempaltes';
 }
 ```

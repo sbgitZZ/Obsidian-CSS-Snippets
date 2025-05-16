@@ -15,6 +15,6 @@ cover:: ![](https://i.imgur.com/KnhS6VY.png)
 
 ```css
 .vertical-tab-header-group-title {
-  color: var(--color-accent);
+    color: var(--color-accent);
 }
 ```

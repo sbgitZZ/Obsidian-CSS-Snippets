@@ -37,7 +37,7 @@ source: https://discord.com/channels/686053708261228577/744933215063638183/10988
 
     .imagegallery p span {
         margin: 5px;
-        border: 0px solid #ccc;
+        border: 0px solid [[ccc]];
         height: 250px;
     }
 
@@ -115,7 +115,7 @@ source: https://discord.com/channels/686053708261228577/744933215063638183/10988
     .imagegallery p span {
         margin: 6px;
         margin-bottom: -2px;
-        border: 0px solid #ccc;
+        border: 0px solid [[ccc]];
         height: auto;
     }
 
